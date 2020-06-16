@@ -1,0 +1,6 @@
+.customJumbo {
+  background-image: url("../img/everest.jpg");
+  z-index: -1;
+  background-position: center;
+  background-repeat: no-repeat;
+}
